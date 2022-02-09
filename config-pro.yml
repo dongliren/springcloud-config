@@ -1,2 +1,3 @@
 config:
-  info:pro branch  version = 1
+  info:"pro branch  version = 1"
+
